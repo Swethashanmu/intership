@@ -1,0 +1,3 @@
+Reservation for visa | Room 101 (Standard) - Booked | Payment: Paid
+Reservation for bob | Room 301 (Suite) - Booked | Payment: Paid
+Reservation for rose | Room 201 (Deluxe) - Booked | Payment: Paid
